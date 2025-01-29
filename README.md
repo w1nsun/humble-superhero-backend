@@ -40,3 +40,12 @@ The directory structure reflects the Domain Driven Design and Layered Architectu
 ![Swagger method doc](assets/3.jpg)
 
 ![Swagger method doc](assets/4.jpg)
+
+
+### If I had more time:
+
+- I would add more tests
+- I would add database.
+- I would move the configuration to env files.
+- I would add logging.
+  
